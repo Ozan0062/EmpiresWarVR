@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftHand
+  - RightHand
+  - EnemyBoss
+  - EnemyAI
+  - EnemyAI1
+  - EnemyAI2
+  - EnemyAI3
+  - EnemyAI4
+  - EnemyAI5
+  - EnemyAI6
+  - EnemyAI7
+  - EnemyAI8
+  - FriendAI
+  - FriendAI1
+  - FriendAI2
+  - FriendAI3
+  - FriendAI4
+  - FriendAI5
+  - FriendAI6
+  - FriendAI7
+  - FriendAI8
+  - FriendAI9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Interactables
+  - Player
+  - Enemy
+  - Friend
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
